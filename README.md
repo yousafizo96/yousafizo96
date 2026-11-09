@@ -1,7 +1,9 @@
 # Yousuf Mehmood
 ### Robotics Software & Systems Engineer
 
-Based in Neu-Ulm, Germany. I have nearly five years of experience in robotics R&D and machine development, developing robot control and perception systems.
+Based in Neu-Ulm, Germany, I have nearly five years of experience in robotics R&D and machine development, developing robot control and perception systems.
+
+I co-developed a vision-guided PCB insertion method validated at pin-to-hole clearances of 0.15 mm.
 
 **Areas of experience**
 - C++ and Python with ROS / ROS 2
