@@ -1,16 +1,16 @@
-## Hi there 👋
+# Yousuf Mehmood
+### Robotics Software & Systems Engineer
 
-<!--
-**yousafizo96/yousafizo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Neu-Ulm, Germany. I have nearly five years of experience in robotics R&D and machine development, developing robot control and perception systems.
 
-Here are some ideas to get you started:
+**Areas of experience**
+- C++ and Python with ROS / ROS 2
+- Robot kinematics, trajectory generation, and sensor fusion
+- Computer vision and force-compliant manipulation
+- Embedded control with ESP32 and FreeRTOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected public projects**
+- [Camera-Calibration](https://github.com/yousafizo96/Camera-Calibration) — hand-eye calibration between a camera and robotic manipulator.
+- [IO-card](https://github.com/yousafizo96/IO-card) — host and client code.
+
+[LinkedIn](https://www.linkedin.com/in/ymehmood96/)
